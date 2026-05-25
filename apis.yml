@@ -1,0 +1,86 @@
+aid: deduce-ai
+name: Deduce
+description: >-
+  Deduce is a New York City-based identity intelligence and fraud-prevention
+  company focused on detecting stolen and synthetic identities, including the
+  rapidly growing class of AI-generated identities used to bypass traditional
+  Know Your Customer and onboarding controls. The company operates the Deduce
+  Identity Graph, an activity-backed U.S. identity network the firm describes
+  as covering 185 million weekly active users and 1.5 billion daily events,
+  used to deliver real-time multi-contextual risk and fraud signals during new
+  account opening, login, and checkout. Deduce sells a real-time API-based
+  fraud-risk scoring product, a Multicontextual Identity Insights service,
+  and a browser-based dashboard for traffic segmentation, anomaly detection,
+  and forensic review, with pre-built integrations into common identity
+  platforms (Auth0, Microsoft Entra External ID / Azure AD B2C, ForgeRock /
+  Ping, Gluu) alongside a native REST API. The company sells to banks,
+  fintechs, lenders, BNPL providers, retail, travel, and payments platforms;
+  its commercial model is enterprise contracts, and its developer
+  documentation, OpenAPI definitions, and integration guides sit behind an
+  authenticated portal, with no public GitHub repositories, no public SDKs,
+  and no published machine-readable API specification.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Identity
+  - Fraud Prevention
+  - Risk Scoring
+  - Synthetic Identity
+  - Account Takeover
+  - New Account Fraud
+  - Checkout Fraud
+  - Identity Graph
+  - Artificial Intelligence
+  - GenAI Fraud
+  - KYC
+  - Onboarding
+  - Banking
+  - Fintech
+  - Payments
+url: https://raw.githubusercontent.com/api-evangelist/deduce-ai/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.deduce.com
+  - type: Product
+    url: https://www.deduce.com/product/
+  - type: UseCases
+    url: https://www.deduce.com/use-cases/
+  - type: NewAccountFraud
+    url: https://www.deduce.com/use-cases/new-account-fraud/
+  - type: CheckoutFraud
+    url: https://www.deduce.com/use-cases/checkout-fraud/
+  - type: Partners
+    url: https://www.deduce.com/partners/
+  - type: Resources
+    url: https://www.deduce.com/resources/
+  - type: Blog
+    url: https://www.deduce.com/blog/
+  - type: Company
+    url: https://www.deduce.com/company/
+  - type: Contact
+    url: https://www.deduce.com/contact-us/
+  - type: DocumentationPortal
+    url: https://docs.deduce.com
+  - type: SignUp
+    url: https://docs.deduce.com/signup
+  - type: SignIn
+    url: https://docs.deduce.com/signin
+  - type: GitHub
+    url: https://github.com/deduce-com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/deduce
+  - type: Twitter
+    url: https://twitter.com/deduceinc
+  - type: PrivacyPolicy
+    url: https://www.deduce.com/privacy-policy/
+  - type: TermsOfService
+    url: https://www.deduce.com/terms-and-conditions/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
