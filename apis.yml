@@ -67,9 +67,9 @@ common:
     url: https://www.deduce.com/contact-us/
   - type: DocumentationPortal
     url: https://docs.deduce.com
-  - type: SignUp
+  - type: Signup
     url: https://docs.deduce.com/signup
-  - type: SignIn
+  - type: Login
     url: https://docs.deduce.com/signin
   - type: GitHub
     url: https://github.com/deduce-com

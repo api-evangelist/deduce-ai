@@ -2,11 +2,18 @@
   "repo": "deduce-ai",
   "feeds": [
     {
-      "source": "https://www.deduce.com/blog/",
-      "feed_url": "https://www.deduce.com/blog/feed/",
+      "source": "https://www.deduce.com/feed/",
+      "feed_url": "https://www.deduce.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
+    },
+    {
+      "source": "https://www.deduce.com/resources/feed/",
+      "feed_url": "https://www.deduce.com/resources/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://www.deduce.com/resources/",
@@ -17,5 +24,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }
